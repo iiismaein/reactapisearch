@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactapisearch/static/css/main.3eb7fa76.css",
+    "main.js": "/reactapisearch/static/js/main.64fb69ee.js",
+    "index.html": "/reactapisearch/index.html",
+    "main.3eb7fa76.css.map": "/reactapisearch/static/css/main.3eb7fa76.css.map",
+    "main.64fb69ee.js.map": "/reactapisearch/static/js/main.64fb69ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3eb7fa76.css",
+    "static/js/main.64fb69ee.js"
+  ]
+}
